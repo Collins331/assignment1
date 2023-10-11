@@ -2,7 +2,6 @@
 
 eMobilis Web development assignment
 
-## Task One
+## Task One Output
 
-![Assignment 1 output.png]
-(https://github.com/emobilis/assignment1/blob/master/output%20-%20Task%20)
+![Assignment 1 Result](https://github.com/Collins331/assignment1/blob/main/Assignment%201%20output.png)
